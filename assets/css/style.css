@@ -364,7 +364,7 @@ section {
 --------------------------------------------------------------*/
 .breadcrumbs {
   padding: 15px 0;
-  background-color: #ff0a75;
+  background-color: #00b76a;
   min-height: 40px;
 }
 .breadcrumbs h2 {
@@ -755,12 +755,12 @@ section {
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet {
   width: 12px;
   height: 12px;
-  background-color: #fff;
+  background-color: #d43076;
   opacity: 1;
   border: 1px solid #d43076;
 }
 .portfolio-details .portfolio-details-slider .swiper-pagination .swiper-pagination-bullet-active {
-  background-color: #d43076;
+  background-color: #00ff9d;
 }
 .portfolio-details .portfolio-info {
   padding: 30px;
