@@ -409,6 +409,7 @@ section {
 .about .content h3 {
   font-weight: 500;
   font-size: 34px;
+  display: inline;
   color: #2c4964;
 }
 .about .content p {
@@ -601,7 +602,7 @@ section {
 .services .icon i {
   font-size: 36px;
   line-height: 1;
-  color: #fff;
+  color: #00ff9d;
 }
 .services .title {
   font-weight: 700;
@@ -617,10 +618,10 @@ section {
   margin-bottom: 0;
 }
 .services .icon-box:hover .title a, .services .icon-box:hover .description {
-  color: #fff;
+  color: #00ff9d;
 }
 .services .icon-box:hover .icon {
-  background: #fff;
+  background: #00ff9d;
 }
 .services .icon-box:hover .icon i {
   color: #d43076;
@@ -896,11 +897,12 @@ section {
 .contact .social-links a {
   font-size: 18px;
   display: inline-block;
-  background: #fff;
+  background: #00ff9d;
   color: #d43076;
   line-height: 0;
-  padding: 8px 0;
-  margin-right: 4px;
+  padding: 8px 2px;
+  margin-right: 2px;
+  margin-top:22px;
   border-radius: 50%;
   text-align: center;
   width: 36px;
@@ -910,7 +912,7 @@ section {
 }
 .contact .social-links a:hover {
   background: #d43076;
-  color: #fff;
+  color: #00ff9d;
 }
 .contact .info {
   color: #5a656e;
