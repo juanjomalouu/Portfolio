@@ -613,6 +613,8 @@ section {
 .services .title a {
   color: #2c4964;
 }
+
+
 .services .description {
   font-size: 15px;
   line-height: 24px;
@@ -621,9 +623,11 @@ section {
 .services .icon-box:hover .title a, .services .icon-box:hover .description {
   color: #00ff9d;
 }
+
 .services .icon-box:hover .icon {
   background: #00ff9d;
 }
+
 .services .icon-box:hover .icon i {
   color: #d43076;
 }
